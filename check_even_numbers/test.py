@@ -5,7 +5,7 @@ def lucky_8(a,b):
         return True
     elif a+b==8:
         return True
-    elif a-b==8 or b-a=8=8:
+    elif a-b==8 or b-a==8:
         return True
     else:
         return False
